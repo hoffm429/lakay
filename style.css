@@ -1,6 +1,4 @@
-div {
-	margin-top: 100px;
-	}
+
 	
 body {
 	background-image: url("http://picsopedia.com/wp-content/uploads/2014/04/beach-sunset-wallpaper-80.jpg");
@@ -12,9 +10,11 @@ h1 {
 	color:#FFFFFF;
 	font-family: script;
 	font-size:24px;
+	padding-left: 100px;
+	padding-top: 50px;
 }
 
 li {
-	padding-bottom: 50px;
+	padding-top: 15px;
 }
 
