@@ -1,7 +1,9 @@
 body {
-	background-color:#c0c0c0;
-	color: #000033;
+	background-image: url("background=http://wallpapermagazine.net/wp-content/uploads/2014/06/hd-beach-sunset-hd-download-Wallpaper.jpg");
+	color: #FFFFFF;
 	font-family:Tahoma, Arial;
+	margin-top: 100 px;
+	margin-left: 100 px;
 }
 
 h1 {
