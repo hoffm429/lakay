@@ -2,12 +2,13 @@ body {
 	background-image: url("http://picsopedia.com/wp-content/uploads/2014/04/beach-sunset-wallpaper-80.jpg");
 	color: #FFFFFF;
 	font-family:Tahoma, Arial;
-	margin-top: 100 px;
-	margin-left: 100 px;
+	margin-top: 300 px;
+	margin-left: 300 px;
 }
 
 h1 {
-	color:#003300;
+	color:#000000;
+	font-family: script;
 	font-size:24px;
 }
 
