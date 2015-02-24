@@ -3,12 +3,12 @@
 body {
 	background-image: url("http://picsopedia.com/wp-content/uploads/2014/04/beach-sunset-wallpaper-80.jpg");
 	color: #FFFFFF;
-	font-family:Tahoma, Arial;
+	font-family: 'Amatic SC', cursive;
 }
 
 h1 {
 	color:#FFFFFF;
-	font-family: script;
+	font-family: 'Amatic SC', cursive;
 	font-size:24px;
 	padding-left: 100px;
 	padding-top: 50px;
@@ -16,5 +16,6 @@ h1 {
 
 li {
 	padding-top: 15px;
+	padding-left: 120px;
 }
 
