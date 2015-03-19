@@ -3,15 +3,16 @@
 body {
 	background-image: url("http://picsopedia.com/wp-content/uploads/2014/04/beach-sunset-wallpaper-80.jpg");
 	color: #FFFFFF;
-	font-family: 'Raleway';
+	font-family: 'Oxygen';
 }
 
 h1 {
 	color:#FFFFFF;
-	font-family: 'Raleway';
+	font-family: 'Oxygen';
 	font-size:30px;
 	padding-left: 100px;
 	padding-top: 50px;
+	text-decoration: none;
 }
 
 li {
