@@ -27,3 +27,7 @@ a:link{
 	text-decoration: none;
 	color: #FFFFFF;
 }
+a:visited{
+	text-decoration: none;
+	color: #FFFFFF;
+}
