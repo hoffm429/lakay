@@ -8,7 +8,7 @@ body {
 
 h1 {
 	color:#FFFFFF;
-	font-family: 'Roboto';
+	font-family: 'Calligraffitti', cursive;
 	font-size:30px;
 	padding-left: 100px;
 	padding-top: 50px;
@@ -17,6 +17,7 @@ h1 {
 
 li {
 	padding-top: 15px;
+	text-decoration: none;
 }
 
 ul {
