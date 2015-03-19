@@ -23,6 +23,7 @@ ul {
 	padding-left: 120px;
 }
 
-a href{
+a:link{
 	text-decoration: none;
+	color: #FFFFFF;
 }
