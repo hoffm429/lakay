@@ -1,4 +1,37 @@
 body { 
-background-image: url("Website-Recovered.png");
+background-image: url("BACKGROUND.png");
 background-repeat: no-repeat;
 }
+
+p {
+  padding-left: 1.5cm;
+  font-family: 'Libre Baskerville', serif;
+  line-height: 5px;
+  letter-spacing: 1px;
+  color: white;
+  font-size: 18px;
+}
+
+.titles {
+  padding-top: .5cm;
+  color: black;
+}
+
+.side {
+	padding-top: 6cm;
+	}
+	
+	a {
+  text-decoration: none;
+  color: white;
+}
+
+#check {
+  border: 1px solid white;
+  width: 210px;
+}
+
+li {
+display: inline
+margin-right: 70 px
+M}
