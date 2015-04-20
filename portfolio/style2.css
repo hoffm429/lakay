@@ -37,17 +37,46 @@ a:hover {
 	color: black;
 }
 
+#wrap {
+	width: 28cm;
+}
+#sidebar {
+	width: 3cm;
+	float: left;
+}
+
+#linkspart {
+	padding-top: 25.5cm;
+	padding-left: 4cm;
+}
+.links {
+padding-top: 13.3cm;
+}
+
+#photoshop {
+	padding-top: 12cm;
+	width: 22cm;
+}
+
 #check {
   border: 1px solid white;
   width: 310px;
 }
 
+.link {
+	padding-left: 6 cm;
+	padding-top: 3 cm;
+	}
+	
 li {
 display: inline
 margin-right: 70 px
 M}
 
-img {
-padding-top: 6cm;
-padding-left: 8.6cm;
+.background {
+	padding-top: 6cm;
+	padding-left: 8.6cm;
+
 }
+
+
