@@ -9,14 +9,14 @@ p {
   line-height: 5px;
   letter-spacing: 1px;
   color: white;
-  font-size: 22px;
+  font-size: 20px;
 }
 
 .titles {
   padding-top: .5cm;
   color: black;
 }
-
+	
 .side {
 	padding-top: 4cm;
 	}
@@ -49,6 +49,11 @@ a:hover {
 	padding-top: 25.5cm;
 	padding-left: 4cm;
 }
+
+#linkspartxa {
+	padding-top: 10cm;
+	padding-left: 4 cm;
+	}
 .links {
 padding-top: 13.3cm;
 }
@@ -67,7 +72,10 @@ padding-top: 13.3cm;
 	padding-left: 6 cm;
 	padding-top: 3 cm;
 	}
-	
+
+	.linkxa {
+	padding-left: 6m;
+	padding-top: 1cm;}
 li {
 display: inline
 margin-right: 70 px
