@@ -16,9 +16,9 @@ p {
 .navigation {
 	color: gray;
 	float: right;
-	padding-left: 30cm;
 	height: 20px;
 	float: right;
+	padding-left: 32.5cm;
 	padding-left: none;
 	top: none;
 	}	
@@ -27,6 +27,7 @@ p {
 	position: fixed;
 	padding-left: none;
 	color: gray;
+	text-align: center;
 }
 
 #nav.hover {
@@ -73,7 +74,7 @@ a:hover {
 }
 
 #linkspartxa {
-	padding-top: 40cm;
+	padding-top: 28.6cm;
 
 	}
 .links {
