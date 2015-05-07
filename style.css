@@ -7,8 +7,7 @@ body {
 }
 
 a:hover {
-	color: gray;
-	border: white;
+	background-color: #000033;
 	}
 
 h1 {
