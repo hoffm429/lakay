@@ -18,14 +18,15 @@ p {
 	float: right;
 	padding-left: 30cm;
 	height: 20px;
-	width: 200px;
-	padding-top: -10px;
+	float: right;
+	padding-left: none;
+	top: none;
 	}	
 	
 #nav {
 	position: fixed;
 	padding-left: none;
-	color: black;
+	color: gray;
 }
 
 #nav.hover {
