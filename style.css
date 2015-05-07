@@ -6,6 +6,11 @@ body {
 	font-family: 'Roboto';
 }
 
+a:hover {
+	color: gray;
+	border: white;
+	}
+
 h1 {
 	color:#FFFFFF;
 	font-family: 'Calligraffitti', cursive;
