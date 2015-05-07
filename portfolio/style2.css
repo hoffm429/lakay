@@ -10,6 +10,7 @@ p {
   letter-spacing: 1px;
   color: white;
   font-size: 20px;
+  text-align: center;
 }
 
 .titles {
@@ -18,7 +19,8 @@ p {
 }
 	
 .side {
-	padding-top: 4cm;
+	padding-top: 4.5cm;
+	position: fixed;
 	}
 	
 	a {
@@ -87,4 +89,21 @@ M}
 
 }
 
+.mainpage {
+color: #000000;
+padding-top: 6cm;
+padding-left: 10cm;
 
+}
+.mainpage2 {
+color: #000000;
+text-align: center;
+padding-top: 5px;
+clear:right;
+}
+.mainpage3 {
+color: #000000;
+padding-top: 6cm;
+padding-left: 15cm;
+
+}
