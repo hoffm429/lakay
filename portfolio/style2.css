@@ -4,7 +4,7 @@ background-repeat: no-repeat;
 }
 
 p {
-  padding-left: 4cm;
+  	padding-left: 4cm;
   font-family: 'Libre Baskerville', serif;
   line-height: 5px;
   letter-spacing: 1px;
@@ -120,6 +120,19 @@ padding-left: 10cm;
 
 }
 .mainpage2 {
+color: #000000;
+text-align: center;
+padding-top: 5px;
+clear:right;
+}
+.mainpaget {
+color: #000000;
+padding-top: 6cm;
+padding-left: 11cm;
+width: 100%;
+
+}
+.mainpage2t {
 color: #000000;
 text-align: center;
 padding-top: 5px;
